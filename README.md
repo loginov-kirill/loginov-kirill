@@ -12,4 +12,4 @@ Everything about me and my projects is available on [my website](https://loginov
 
 🎯 Founder & Tech Lead | 🤖 AI Engineer | 🔗 Blockchain Developer | 💡 Innovation Enthusiast
 
-## 🚀 Innovating Beyond Boundaries
+## 🚀 The main thing is consistency
