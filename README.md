@@ -17,5 +17,5 @@ Everything about me and my projects is available on [my website](https://loginov
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=logoskir&theme=dark" width="400" />
   <a href="https://leetcode.com/loginov-kirill/"><img src="https://leetcard.jacoblin.cool/logoskir?theme=dark" width="400" /></a>
-  <a href="https://www.codewars.com/users/loginov-kirill"><img src="https://www.codewars.com/users/logoskir/badges/large" /></a>
+  <a href="https://www.codewars.com/users/loginov-kirill"><img src="https://www.codewars.com/users/loginov-kirill/badges/large" /></a>
 </div>
