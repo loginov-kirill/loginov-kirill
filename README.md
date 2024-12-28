@@ -12,10 +12,10 @@ Everything about me and my projects is available on [my website](https://loginov
 
 🎯 Founder & Tech Lead | 🤖 AI Engineer | 🔗 Blockchain Developer | 💡 Innovation Enthusiast
 
-## 🚀 The main thing is consistency
 
+## 🚀 The main thing is consistency
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=logoskir&theme=dark" width="400" />
-  <img src="https://leetcard.jacoblin.cool/logoskir?theme=dark" width="400" />
-  <img src="https://www.codewars.com/users/logoskir/badges/large" />
+  <a href="https://leetcode.com/logoskir/"><img src="https://leetcard.jacoblin.cool/logoskir?theme=dark" width="400" /></a>
+  <a href="https://www.codewars.com/users/logoskir"><img src="https://www.codewars.com/users/logoskir/badges/large" /></a>
 </div>
