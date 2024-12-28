@@ -6,7 +6,7 @@ I am and have been a tech innovator and developer since 2016. My work spans acro
 
 I specialize in developing AI-powered solutions to optimize business processes, designing and deploying smart contracts for decentralized applications, and building neural networks for machine learning projects.
 
-File issues and pull requests in any of the projects I participate in. Contact me via email at [hello@loginov.ai](mailto:hello@loginov.ai) or connect with me on [LinkedIn](https://www.linkedin.com/in/loginov-kirill/), [Twitter](https://twitter.com/KiriLoginov), or [Telegram](https://t.me/loginov_ai).
+File issues and pull requests in any of the projects I participate in. Contact me via email at [hello@loginov.ai](mailto:hello@loginov.ai) or connect with me on [LinkedIn](https://www.linkedin.com/in/loginov-kirill/), [Twitter](https://twitter.com/KiriLoginov), or [Telegram](https://t.me/logoskir).
 
 Everything about me and my projects is available on [my website](https://loginov.ai).
 
