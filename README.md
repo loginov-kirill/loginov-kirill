@@ -15,7 +15,7 @@ Everything about me and my projects is available on [my website](https://loginov
 
 ## 🚀 The main thing is consistency
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=logoskir&theme=dark" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loginov-kirill&theme=dark" width="400" />
   <a href="https://leetcode.com/loginov-kirill/"><img src="https://leetcard.jacoblin.cool/loginov-kirill?theme=dark" width="400" /></a>
   <a href="https://www.codewars.com/users/loginov-kirill"><img src="https://www.codewars.com/users/loginov-kirill/badges/large" /></a>
 </div>
