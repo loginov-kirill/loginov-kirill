@@ -10,10 +10,10 @@ File issues and pull requests in any of the projects I participate in. Contact m
 
 Everything about me and my projects is available on [my website](https://loginov.ai).
 
-🎯 Founder & Tech Lead | 🤖 AI Engineer | 🔗 Blockchain Developer | 💡 Innovation Enthusiast
+Founder & Tech Lead | AI Engineer | Blockchain Developer | Innovation Enthusiast
 
 
-## 🚀 The main thing is consistency
+## The main thing is consistency
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=loginov-kirill&theme=dark" width="400" />
   <a href="https://leetcode.com/loginov-kirill/"><img src="https://leetcard.jacoblin.cool/loginov-kirill?theme=dark" width="400" /></a>
