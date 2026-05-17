@@ -17,5 +17,4 @@ Founder & Tech Lead | AI Engineer | Blockchain Developer | Innovation Enthusiast
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=loginov-kirill&theme=dark" width="400" />
   <a href="https://leetcode.com/loginov-kirill/"><img src="https://leetcard.jacoblin.cool/loginov-kirill?theme=dark" width="400" /></a>
-  <a href="https://www.codewars.com/users/loginov-kirill"><img src="https://www.codewars.com/users/loginov-kirill/badges/large" /></a>
 </div>
